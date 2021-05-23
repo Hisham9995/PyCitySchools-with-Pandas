@@ -50,5 +50,5 @@ What we have done is fixing small portion of data math and reading scores for 9t
 the change we Have made in the math and reading scores for 9th graders at Thomas High School was removed which caused a change in the averages and percent passing at Thomas    High School
 
 # Summary
-This Analysis  helped us get  the number of students counted at Thomas High School, the average math and reading scores, and the percentages in Passing Math and reading . Which we can see a difference average scores and score percentages, another fact we can tell the highest performing schools
+This Analysis  helped us get  the number of students counted at Thomas High School, the average math and reading scores, and the percentages in Passing Math and reading . Which we can see a difference in average scores and score percentages, another fact we can tell the highest performing schools
 and Low Performing Schools
