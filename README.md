@@ -34,5 +34,5 @@ Overall, the change we Have made affects the averages and percentages  at Thomas
 
 
 # Summary
-This Analysis  helped us to get the right total students, the number of students counted at Thomas High School, the average math and reading scores, and the percentages in Passing Math and reading at Thomas High School. Which we can see a difference average scores and score percentages, we can tell the highest performing schools
+This Analysis  helped us to get the right number of students counted at Thomas High School, the average math and reading scores, and the percentages in Passing Math and reading at Thomas High School. Which we can see a difference average scores and score percentages, we can tell the highest performing schools
 and Low Performing Schools
