@@ -16,12 +16,14 @@ This analysis is  about  
 # Results
 
 
+
 ![](Resources/Challenge img 1.png)
 
 
 
 
 What we have done is fixing small portion of data math and reading scores for 9th graders at Thomas High School and we can tell the highest performing schools first   Cabrera High School, second  Thomas High School and third Griffin High School     and Low Performing Schools are  Rodriguez High School, Figueroa High School, and Huang High School
+
 
 
 ![](Resources/Challenge img 2.png)
