@@ -4,11 +4,11 @@
 
 # Overview of the school district analysis
 This analysis is  about  
-1-Replacing  the 9th-grade data scores at Thomas High School on the other hand analyzing other data. and
-2-Assembling data into DataFrame.
-3-Arranging Scores by School Spending, Size, and Type
-4-Determining the top five schools. and the bottom 5 schools
-5-The set of columns we have are, The total school budget, per student capita, average math and reading score, the passing percent for math and reading, and the overall passing percentage.
+-1  Replacing  the 9th-grade data scores at Thomas High School on the other hand analyzing other data. and
+-2  Assembling data into DataFrame.
+-3  Arranging Scores by School Spending, Size, and Type
+-4  Determining the top five schools. and the bottom 5 schools
+-5  The set of columns we have are, The total school budget, per student capita, average math and reading score, the passing percent for math and reading, and the overall passing percentage.
 
 
 
