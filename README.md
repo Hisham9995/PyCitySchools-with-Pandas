@@ -32,20 +32,6 @@ Overall, the change we Have made affects the averages and percentages  at Thomas
 
 
 
-# Results
-
-
-![](Resources/Challenge img 1.png)
-
-
-
-
-What we have done is fixing small portion of data math and reading scores for 9th graders at Thomas High School and we can tell the highest performing schools first   Cabrera High School, second  Thomas High School and third Griffin High School     and Low Performing Schools are  Rodriguez High School, Figueroa High School, and Huang High School
-
-
-![](Resources/Challenge img 2.png)
-
-the change we Have made in the math and reading scores for 9th graders at Thomas High School was removed which caused a change in the averages and percent passing at Thomas    High School
 
 # Summary
 This Analysis can help us get the right total students, the number of students counted at Thomas High School, the average math and reading scores, and the percentages in Passing Math and reading at Thomas High School. Which we can see a difference average scores and score percentages, we can tell the highest performing schools
