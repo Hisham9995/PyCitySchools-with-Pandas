@@ -17,7 +17,7 @@ This analysis is  about  
 
 
 
-  ![](Resources/Challengeimg1.png)
+  ![](Resources/Challenge%20img%201.png)
 
 
 
@@ -26,7 +26,7 @@ What we have done is fixing small portion of data math and reading scores for 9t
 
 
 
-   ![](Resources/Challengeimg2.png)
+   ![](Resources/Challenge%20img%202.png)
 
 Overall, the change we Have made affects the averages and percent passing at Thomas High School where the math and reading scores for 9th graders at Thomas High School were removed.
 
